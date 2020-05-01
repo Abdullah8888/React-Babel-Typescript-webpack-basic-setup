@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## please you can add the dist folder to the root directory, it seems is missing
 
 ## Available Scripts
 
